@@ -49,7 +49,7 @@ These metrics indicate how well the model predicts house prices.
 8. Visualization
 Plotted graphs to compare:
 Actual house prices
-Predicted house prices
+Predicted house prices.
 Visualization helped in understanding model accuracy and error patterns.
 
 TOOLS USED
